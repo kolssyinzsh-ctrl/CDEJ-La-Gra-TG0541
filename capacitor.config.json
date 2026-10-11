@@ -1,0 +1,6 @@
+{
+  "appId": "org.cdej.tg0541",
+  "appName": "CDEJ TG 0541",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
